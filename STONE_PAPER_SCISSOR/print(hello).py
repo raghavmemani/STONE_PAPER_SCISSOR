@@ -78,4 +78,4 @@ while True:
     if key == ord('s'):
         startGame = True
         initialTime = time.time()
-        stateResult = Fals
+        stateResult = False
